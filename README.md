@@ -1,2 +1,2 @@
 ## drag-drop-connection
-This project implements the use cases of storm-react-diagram package
+This project implements some of the basic features of storm-react-diagram package
