@@ -1,0 +1,18 @@
+{
+  "name": "drag-drop-connection",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "core-js": "^2.5.7",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "^1.1.4",
+    "storm-react-diagrams": "^5.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
